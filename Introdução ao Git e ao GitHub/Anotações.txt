@@ -1,0 +1,20 @@
+Comandos:
+01)GIT CLONE = utilizar para clonar o repositorio do GitHub para a máquina
+
+comando = git clone <url>
+
+02)GIT STATUS = para verificar o status de novos arquivos na máquina local
+
+comando = git status
+
+03) GIT ADD = Comando para preparar os arquivos para serem enviados ao GitHub
+
+comamndo = git add .
+
+04) GIT COMMIT -M = Serve para criar o commit local com a mensagem
+
+comando = git commit -m "<mensagem>"
+
+04) GIT PUSH ORIGIN MAIN = Serve para enviar todos os commits da máquina para o GitHub
+
+comando = git push origin main
